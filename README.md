@@ -1,20 +1,8 @@
-# create-svelte
+# BunkBedCar
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm init svelte@next
-
-# create a new project in my-app
-npm init svelte@next my-app
-```
-
-> Note: the `@next` is temporary
+Welcome to our future web site featuring our BunkBedCar (coined by our
+daughter Penelope, age 6). She is a 1977 GMC Eleganza II based here in Las
+Vegas, NV.
 
 ## Developing
 
