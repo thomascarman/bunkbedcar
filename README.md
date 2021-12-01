@@ -1,4 +1,4 @@
-# BunkBedCar
+# BunkBedCar.com
 
 Welcome to our future web site featuring our BunkBedCar (coined by our
 daughter Penelope, age 6). She is a 1977 GMC Eleganza II based here in Las
