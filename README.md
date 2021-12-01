@@ -4,9 +4,11 @@ Welcome to our future web site featuring our BunkBedCar (coined by our
 daughter Penelope, age 6). She is a 1977 GMC Eleganza II based here in Las
 Vegas, NV.
 
+![Solar Prep](./static/SolarPrep.jpg)
+
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've setup the project and installed dependencies with `npm install` start the development server:
 
 ```bash
 npm run dev
